@@ -6,8 +6,7 @@ A WoW 1.12 (Interface 11200) addon that counts how many times you cast each of y
 
 - Counts **your own** casts per spell from the combat log. The several hits from one AoE cast count as a single cast.
 - Meter window with bars in your class colour, showing each spell's count and its share of the total. Hovering a row shows its casts, hits and hits per cast.
-- Uses Azeroth FieldKit's look when FieldKit is installed, and a matching built-in style otherwise.
-- Report panel: send the top spells to Say, Party, Raid, Guild, Officer or a whisper, choosing how many lines to send.
+- Report panel: send the top spells to Say, Party, Raid, Guild, Officer or a whisper, choosing how many lines to send. Currently limited to 3 lines of spells and your name.
 - Counts are saved between sessions, separately for each character.
 
 ## Install
