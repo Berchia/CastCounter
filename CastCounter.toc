@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: |cffffd100Cast|rCounter
+## Notes: Counts how many times you cast each of your spells, in a meter window styled like Azeroth FieldKit's, and reports it to chat. /cc to show or hide.
+## Version: 1.1.0
+## OptionalDeps: AzerothFieldKit
+## SavedVariables: CastCounterDB
+CastCounter.lua
